@@ -1,7 +1,7 @@
 # transformations2log
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![License](https://img.shields.io/github/license/danilown/transformations2log.svg)](https://github.com/danilown/transformations2log/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/danilown/transformations2log/blob/main/LICENSE)
 [![Python application](https://github.com/danilown/transformations2log/actions/workflows/python-app.yml/badge.svg)](https://github.com/danilown/transformations2log/actions/workflows/python-app.yml)
 
 A simple package to extract `torchvision` transformations used during training and testing.
