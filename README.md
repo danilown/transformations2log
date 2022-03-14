@@ -25,7 +25,7 @@ A) Simply copy and paste it into your project;
 B) Or install it through `pip` following the command bellow:
 
 ``` bash
-pip install git+git://https://github.com/danilown/transformations2log#egg=transformations2log
+pip install git+git://github.com/danilown/transformations2log
 ```
 
 Then, using it is as simples as:
